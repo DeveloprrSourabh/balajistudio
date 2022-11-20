@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/balajistudio/static/css/main.0808d1ba.css",
+    "main.js": "/balajistudio/static/js/main.f29ff0e0.js",
+    "static/js/787.05537965.chunk.js": "/balajistudio/static/js/787.05537965.chunk.js",
+    "static/media/hero-bg.png": "/balajistudio/static/media/hero-bg.80df3eac88971bd3405c.png",
+    "static/media/menu.png": "/balajistudio/static/media/menu.3f6bb5bc73403ef4adf4.png",
+    "static/media/contact-bg.png": "/balajistudio/static/media/contact-bg.32dd2532eb9051835b5c.png",
+    "index.html": "/balajistudio/index.html",
+    "main.0808d1ba.css.map": "/balajistudio/static/css/main.0808d1ba.css.map",
+    "main.f29ff0e0.js.map": "/balajistudio/static/js/main.f29ff0e0.js.map",
+    "787.05537965.chunk.js.map": "/balajistudio/static/js/787.05537965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0808d1ba.css",
+    "static/js/main.f29ff0e0.js"
+  ]
+}
