@@ -12,8 +12,7 @@ const Header = () => {
               <Link className="navbar-brand" to="/home">
                 <img src="images/logo.png" alt="" />
                 <span>
-                 Owner: Mukesh
-                </span>
+                Owner: Mukesh &  JATIN SUTHAR                </span>
               </Link>
               
               <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
